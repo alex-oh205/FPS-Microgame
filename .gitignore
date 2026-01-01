@@ -10,6 +10,7 @@
 /FPS_Microgame/[Bb]uilds/
 /FPS_Microgame/[Ll]ogs/
 /FPS_Microgame/[Uu]ser[Ss]ettings/
+/FPS_Microgame/connectwebgl.zip
 *.log
 
 # MemoryCaptures can get excessive in size.
