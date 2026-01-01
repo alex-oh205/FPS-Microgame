@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 FPS_Microgame/Assets/AddOns/Sci-Fi[[:space:]]Texture[[:space:]]Pack[[:space:]]1/Textures/Texture_2_Diffuse.psd filter=lfs diff=lfs merge=lfs -text
+FPS_Microgame/OS[[:space:]]Builds/FPS[[:space:]]Microgame_Data/sharedassets3.assets.resS filter=lfs diff=lfs merge=lfs -text
+FPS_Microgame/WebGL[[:space:]]Builds/Build2022/Build/Build2022.data.unityweb filter=lfs diff=lfs merge=lfs -text
